@@ -1,2 +1,0 @@
-[03-Apr-2019 13:24:20 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/bostradc/public_html/wp-includes/class-wp-query.php on line 755
-[03-Apr-2019 13:25:55 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/bostradc/public_html/wp-includes/class-wp-query.php on line 755
