@@ -1,0 +1,6 @@
+section:hover .title-effect:nth-child(odd), section:focus .title-effect:nth-child(even) { color: #84ba3f; }
+@media (min-width: 992px) {
+
+.mega-menu > section.menu-list-items > .container-fluid > .row > div { padding-left: 3%; padding-right: 3%; }
+
+}
